@@ -1,4 +1,3 @@
-@@ -0,0 +1,25 @@
 const Hapi = require('@hapi/hapi');
 // files
 const routes = require('./routes');
